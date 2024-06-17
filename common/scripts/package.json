@@ -8,6 +8,6 @@
   "author": "0xcert",
   "license": "MIT",
   "dependencies": {
-    "web3": "1.2.6"
+    "web3": "4.10.0"
   }
 }
